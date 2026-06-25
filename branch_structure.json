@@ -1,0 +1,45 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "alertSpike",
+    "copilot/fix-ci-failing-issues",
+    "dev",
+    "feat/140-budget-cli",
+    "feat/alerting-system-overhaul",
+    "feat/simulation-traffic-cache",
+    "fix/issue-350-budget-exhausted-alert",
+    "main",
+    "origin",
+    "pr-210",
+    "pr-230",
+    "pr-242"
+  ],
+  "parent": {
+    "alertSpike": "main",
+    "copilot/fix-ci-failing-issues": "main",
+    "dev": "main",
+    "feat/140-budget-cli": "main",
+    "feat/alerting-system-overhaul": "main",
+    "feat/simulation-traffic-cache": "main",
+    "fix/issue-350-budget-exhausted-alert": "main",
+    "main": null,
+    "origin": "main",
+    "pr-210": "main",
+    "pr-230": "main",
+    "pr-242": "main"
+  },
+  "order": [
+    "main",
+    "alertSpike",
+    "copilot/fix-ci-failing-issues",
+    "dev",
+    "feat/140-budget-cli",
+    "feat/alerting-system-overhaul",
+    "feat/simulation-traffic-cache",
+    "fix/issue-350-budget-exhausted-alert",
+    "origin",
+    "pr-210",
+    "pr-230",
+    "pr-242"
+  ]
+}
