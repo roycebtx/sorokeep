@@ -5,8 +5,7 @@ Cargo.lock
 *.rs.bk
 
 # Environment files
-.env
-.env.*
+!.env.example
 
 # Logs
 *.log
@@ -14,7 +13,6 @@ Cargo.lock
 # Editor/OS files
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -34,3 +32,4 @@ PLANNED_ISSUES.md
 
 stdout
 prs.json  
+config.bat
